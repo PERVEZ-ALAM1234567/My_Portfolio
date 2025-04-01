@@ -1,7 +1,8 @@
 # Pervez Alam's Portfolio
 
 Welcome to my personal portfolio website! This project showcases my skills, projects, achievements, and journey as a full-stack developer and AI enthusiast. Built with modern web technologies, this portfolio is designed to be responsive, interactive, and visually appealing.
-
+---
+![HOME](https://github.com/user-attachments/assets/5f14c83e-22fb-433e-9eb8-e28d3e879874)
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
@@ -75,12 +76,14 @@ My_Portfolio/
 ├── index.html          # Main HTML file
 ├── style.css           # Custom CSS for styling
 ├── script.js           # JavaScript for interactivity
+├── config.php          # PHP Configuration File
+├── contact.php         # PHP File for handling contact form 
 ├── My_Profile_Picture/ # Folder for profile and project images
-│   ├── PERVEZ_ALAM.jpg
-│   ├── PERVEZ ALAM_1.jpg
+│   ├── Pic
+│   ├── Pic
 │   └── ...
 ├── pdfs/               # Folder for resume PDF
-│   ├── PERVEZ ALAM.pdf
+│   ├── Resume.pdf
 └── favicon.png         # Website favicon
 ```
 
