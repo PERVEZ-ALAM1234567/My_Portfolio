@@ -28,11 +28,13 @@ This is a single-page portfolio website that highlights my expertise in full-sta
 - **Contact Form**: Allows visitors to send messages directly.
 - **Print Option**: Export the entire website as a PDF.
 - **Source Code Access**: Link to the GitHub repository for the project.
+- **Resume Download**: Provides an option for users to download resume directly from the website.
 
 ## Technologies Used
 - **HTML5**: Structure and semantics.
 - **CSS3**: Styling, animations, and responsiveness (via `style.css`).
 - **JavaScript**: Interactivity and dynamic features (via `script.js`).
+- **PHP**: Handle Backend Logic for form submission (via `contact.php`).
 - **Font Awesome**: Icons for social links, skills, and buttons.
 - **Typed.js**: Typing animation in the hero section.
 - **External Libraries**: Hosted via CDN for Font Awesome and Typed.js.
@@ -65,7 +67,7 @@ cd My_Portfolio
 
 ## Usage
 - Navigate through the sections using the top navigation bar.
-- Click on project or certificate cards to view details in a fullscreen modal.
+- Click on project or certificate cards to view details in a fullscreen modal. You can also access it all.
 - Use the theme toggle button to switch between light and dark modes.
 - Download the resume or contact me via the provided links and form.
 - Print the entire website as a PDF using the "Print Whole Website" button.
@@ -116,4 +118,5 @@ This project is open-source and available under the MIT License. You are free to
 - **GitHub**: [github.com/PERVEZ-ALAM1234567](https://github.com/PERVEZ-ALAM1234567)
 
 ---
-Thank you for visiting my portfolio! Feel free to explore the code and reach out if you have any questions or opportunities to collaborate.
+Thank you for visiting my portfolio! 😘🥰 
+Feel free to explore the code and reach out if you have any questions or opportunities to collaborate.
