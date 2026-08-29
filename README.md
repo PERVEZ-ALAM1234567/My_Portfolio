@@ -270,6 +270,17 @@ All project descriptions, images, links, and personal information belong to thei
 **Full Stack Web Developer | AI Enthusiast**
 
 Passionate about building responsive, scalable, and user-centric web applications while continuously learning new technologies and solving real-world problems.
+## 👑 Author 
+
+### 🧑‍💻Name - **PERVEZ ALAM**
+
+📞 Phone - +91 9330547611
+
+📂 GitHub - [https://github.com/PERVEZ-ALAM1234567](https://github.com/PERVEZ-ALAM1234567)
+
+✉️ E-mail - pervezalam1234567@gmail.com
+
+🔗 LinkedIn - [http://www.linkedin.com/in/pervez-alam1](http://www.linkedin.com/in/pervez-alam1)
 
 ---
 
