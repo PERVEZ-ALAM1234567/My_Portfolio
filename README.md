@@ -6,38 +6,33 @@ This is a modern, responsive, and interactive portfolio website created to showc
 
 The portfolio focuses on a clean user interface, smooth animations, responsive design, interactive project sections, and an easy way to get in touch.
 
----
-
-## 🌐 Live Portfolio
-
-**Live Website:**  
-Add your deployed website URL here
-
----
+## 🌐 Portfolio
+ 
+ ![screenshot](https://github.com/PERVEZ-ALAM1234567/My_Portfolio/blob/main/images/screenshot.png)
 
 ## ✨ Features
 
-- 🎨 Modern and responsive portfolio design
-- 📱 Mobile-friendly layout
-- 🌙 Dark/Light theme toggle
-- ⌨️ Typing animation
-- 📊 Scroll progress indicator
-- 🎬 Smooth element animations
-- 🖼️ Interactive profile image carousel
-- 🔍 Fullscreen image viewer
-- 📥 Image download functionality
-- 📄 Resume download
-- 🖨️ Print entire portfolio as PDF
-- 🧑‍💻 Skills showcase
-- 🚀 Interactive project carousel
-- 🛠️ Technology stack section
-- 📧 Contact form
-- 📞 Direct phone and email contact
-- 📍 Google Maps location link
-- 🔗 GitHub and LinkedIn profile links
-- ⬆️ Back-to-top button
-- 💻 Clean and organized UI
-- ⚡ Lightweight frontend implementation
+-  Modern and responsive portfolio design
+-  Mobile-friendly layout
+-  Dark/Light theme toggle
+-  Typing animation
+-  Scroll progress indicator
+-  Smooth element animations
+-  Interactive profile image carousel
+-  Fullscreen image viewer
+-  Image download functionality
+-  Resume download
+-  Print entire portfolio as PDF
+-  Skills showcase
+-  Interactive project carousel
+-  Technology stack section
+-  Contact form
+-  Direct phone and email contact
+-  Google Maps location link
+-  GitHub and LinkedIn profile links
+-  Back-to-top button
+-  Clean and organized UI
+-  Lightweight frontend implementation
 
 ---
 
@@ -49,31 +44,13 @@ Add your deployed website URL here
 - CSS3
 - JavaScript
 
-### Programming Languages
 
-- C
-- C++
-- Java
-- Python
-- PHP
 
-### Framework / Library
 
-- React
-- Font Awesome
-- Typed.js
-- GSAP
-- Anime.js
-- html2pdf.js
 
 ### Database
 
 - MySQL
-
-### CMS
-
-- WordPress
-- Elementor
 
 ### Development Tools
 
